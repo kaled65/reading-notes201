@@ -57,10 +57,36 @@ made up of two parts: a name and a value, separated by an equals sign.
      xhtml1-strict.dtd"
      5. XML Declaration <br >
      ?xml version="1.0" ?
-### Comments in HTML
+### Comments in HTML:
 - !-- -- to add a comment to your HTML code. Comments do not appear on the main browser window. 
-### ID Attribute
+### ID Attribute:
 -  Attributes are used to uniquely identify an element from other elements on the page. their value should start with a letter or an underscore. The id attribute is known as a global attribute because it can be used on any element.
-### Class Attribute 
-Class attributes identify several elements as being different from the other elements on the page. The class attribute on any
+### Class Attribute:
+- Class attributes identify several elements as being different from the other elements on the page. The class attribute on any
 element can share the same value. By default, using these attributes does not affect the presentation of an element. It will only change their appearance if there is a CSS rule that indicates it should be displayed differently.
+### Block Elements:
+- **Block elements** will always start on a new line in the browser window. For example h1, p, ul, and li
+### Inline Elements:
+- **Inline elements** will always continue on the same line as their neighbouring elements. Such as a, b, em, and img. 
+### Grouping Text & Elements In a Block:
+- The div element allows you to group a set of elements together in one block-level box. It can be helpful to add a comment after the closing div tag. This allows you to clearly see which opening tag it is supposed to correspond to. 
+### Grouping Text & Elements Inline: 
+- The span element acts like an inline equivalent of the div element. It is used to either: <br >
+    1. Contain a section of text
+    2.  Contain a number of inline elements
+- The most common reason why people use span elements is so that they can control the appearance of the content of these elements using CSS. 
+***
+# JAVASCRIPT & JQUERY 
+## chapter: 1 The ABC of Programming  (pp.11-52)
+### A SCRIPT IS A SERI ES OF INSTRUCTIONS: 
+* A **script** is a series of instructions that a computer can follow step-by-step to achieve a goal. A browser may use different parts of the script depending on how the users interact with the web page. 
+### WRITING A SCRIPT: 
+* To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+* The process of writting a script can be broken down into a series of steps: 
+    1. Define the goal.
+    2. Design the script. This step is manifested in spliting the goal into individual tasks. 
+    3. Code each step.
+### Designing a script: 
+- After identifying the goal of the script, think of the individual tasks needed to achieve it. these tasks may sometimes be breakale to smaller steps. 
+### Coding the script: 
+- Every step for every task needs to be written in a language the computer can understand and follow. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
