@@ -36,3 +36,30 @@ properties.
     1. external scc
     2. internal scc
     3. inline scc
+***
+# JAVASCRIPT & JQUERY:
+## chapter: 2 Basic javascript instructions (pp.53-84)
+### statements:
+- **script** is a series of instructions that a computer can follow one-by-one. 
+**statement** refers to each individual instruction or step. 
+### Comments:
+- writting comments makes it easier for you to remember your code and for others to understand it. 
+### WHAT IS A VARIABLE? 
+- **variables** are used to store different types of data.
+- creating a **variable** involves declaring the variable and then giving it name. 
+- The equals sign **=** is used to assign a value to a variable.
+### DATA TYPES :
+- there three main data types: <br >
+    1. NUMERIC DATA TYPE
+    2. STRING DATA TYPE 
+    3. BOOLEAN DATA TYPE
+### RULES FOR NAMING VARIABLES:
+1. must begin with a letter
+2. You cannot use keywords or reserved words as variable names
+3. All variables are case sensitive
+4. use descriptive names 
+5. If your variable name is made up of more than one word, use a
+capital letter for the first letter of every word after the first word 
+### ARRAYS
+- An array is a special type of variable. It doesn't
+just store one value; it stores a list of values. 
