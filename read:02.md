@@ -1,6 +1,6 @@
 This is read:02, code:201
 # HTML & css design and build web sites:
-## Capter: 2 Text (pp.40-61)
+## Chapter: 2 Text (pp.40-61)
 ### Headings:
 - In HTML, the heading starts at h1 to indicate the main heading. 
 - the subheadings are indicated useing h2, h3, h4, h5, h6.

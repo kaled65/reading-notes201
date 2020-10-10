@@ -1,6 +1,6 @@
 This is read:05, code:201
 # HTML & css design and build web sites:
-## Capter: 5 Images (pp.94-125) 
+## Chapter: 5 Images (pp.94-125) 
 - Pictures are a great way to creat a good first impression about your site
 -  It is good practice to create a folder for all of the images
 the site uses.

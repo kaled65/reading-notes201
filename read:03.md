@@ -1,6 +1,6 @@
 This is read:03, code:201
 # HTML & css design and build web sites:
-## Capter: 3 lists (pp.62-73)
+## Chapter: 3 lists (pp.62-73)
 ### Ordered and unordered lists:
 - In HTML there are three types of lists:  <br >
     1. **ol** ordered list comes with numbers.

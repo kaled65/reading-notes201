@@ -1,6 +1,6 @@
 This is read:01, code:201
 # HTML & css design and build web sites:
-## Capter: 1 introduction (pp.2-11)
+## Chapter: 1 introduction (pp.2-11)
 ### How people access the web:
 - **web browsers**: People access websites using software called a web browser. examples include Firefox, Internet Explorer, Safari,
 Chrome, and Opera.
