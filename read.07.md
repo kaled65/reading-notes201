@@ -29,4 +29,4 @@
 ### Arrays are objects:
 - Arrays are speical type of object. The hold a related set of key-value pairs(like all objects), but the key for each value is its index number. 
 ### Arrays of objects and & objects in arrays: 
-- You combine arrays and objects to create a complex data structures. arrays cn store a series of objects(and remember their order). Objects can also hlod arrays(as values of their properties).
+- You combine arrays and objects to create a complex data structures. arrays cn store a series of objects(and remember their order). Objects can also hlod arrays(as values of their properties).   
